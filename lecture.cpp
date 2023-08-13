@@ -27,7 +27,7 @@ class lecture
 };
 int main()
 {
-	lecture obj("harsh","bhvbehvbeh","hbghabjb");
+	lecture obj("harsh","subham","gaurav");
 	obj.display();
 	return 0;
 }
